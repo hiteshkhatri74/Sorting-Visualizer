@@ -5,7 +5,7 @@
 - Insertion Sort
 - Quick Sort
 - Merge Sort
-
 ### This is built using HTML, CSS, JavaScript <br/>
 
-[Check out the website here]()
+## Live demo
+[click here to view the demo] (https://hiteshkhatri74.github.io/Sorting-Visualizer/)
